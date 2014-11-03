@@ -3,3 +3,4 @@ Git is free software.
 good txt
 test
 test2
+test3
